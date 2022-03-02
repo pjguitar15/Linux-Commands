@@ -1,19 +1,20 @@
 ## CD commands
 ```
-cd / // go to root directory
-cd ~
+cd or cd ~ (navigate to home diretory)
+cd /  (go to root directory; means the highest system directory)
+cd ~ (go to home directory; means user files)
+cd ../ (previous directory)
+cd ~/ (open files from home directory)
 ```
 
-### Go to root directory
-> root directory means the highest directory on your system
+### CRUD files and directory
+> Create Read Update Delete
 ```
+mk filename
+rm filename
 
-```
-
-### Go to home directory
-> home directory means user files
-```
-
+mkdir dirname
+rmdir dirname
 ```
 
 ### Clear and Exit
@@ -22,21 +23,19 @@ clear
 exit
 ```
 
-### Go to previous directory
-> it can go deep back
-```
-../
-../../../
-```
-
 ### Show current directory files
 ```
 ls
 ```
 
-### Make directory
+## Install packages
 ```
-mkdir file-name
+apt-get
+sudo apt-get install emacs
 ```
 
+## Changing Directory Permissions
+```
+chmod (learn about this)
+```
 
