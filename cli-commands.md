@@ -8,6 +8,11 @@ cd ~/ (open files from home directory)
 cd "My Documents" (cd to directory with space)
 ```
 
+### Other directory commands
+```bash
+pwd (gets the current directory)
+```
+
 ### CRUD files and directory
 > Create Read Update Delete
 ```bash
