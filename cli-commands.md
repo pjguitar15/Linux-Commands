@@ -1,5 +1,5 @@
 ## CD commands
-```csh
+```bash
 cd or cd ~ (navigate to home diretory)
 cd /  (go to root directory; means the highest system directory)
 cd ~ (go to home directory; means user files)
@@ -9,7 +9,7 @@ cd ~/ (open files from home directory)
 
 ### CRUD files and directory
 > Create Read Update Delete
-```csh
+```bash
 mk filename
 rm filename
 
@@ -18,7 +18,7 @@ rmdir dirname
 ```
 
 ### Clear and Exit
-```zsh
+```bash
 clear
 exit
 ```
@@ -29,7 +29,7 @@ ls
 ```
 
 ## Install packages
-```shell
+```bash
 apt-get
 sudo apt-get install emacs
 ```
