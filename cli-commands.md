@@ -1,29 +1,42 @@
-### Go to root directory
-> root directory means the highest directory on your system
+## CD commands
 ```
-cd /
-```
-
-## Go to home directory
-> home directory means user files
-```
+cd / // go to root directory
 cd ~
 ```
 
-## Clear and Exit
+### Go to root directory
+> root directory means the highest directory on your system
+```
+
+```
+
+### Go to home directory
+> home directory means user files
+```
+
+```
+
+### Clear and Exit
 ```
 clear
 exit
 ```
 
-## Go to previous directory
+### Go to previous directory
 > it can go deep back
 ```
 ../
 ../../../
 ```
 
-## Show current directory files
+### Show current directory files
 ```
 ls
 ```
+
+### Make directory
+```
+mkdir file-name
+```
+
+
