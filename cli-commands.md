@@ -15,3 +15,10 @@ cd ~
 clear
 exit
 ```
+
+## Go to previous directory
+> it can go deep back
+```
+../
+../../../
+```
