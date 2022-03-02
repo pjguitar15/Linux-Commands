@@ -18,7 +18,7 @@ rmdir dirname
 ```
 
 ### Clear and Exit
-```bash
+```zsh
 clear
 exit
 ```
@@ -29,7 +29,7 @@ ls
 ```
 
 ## Install packages
-```bash
+```shell
 apt-get
 sudo apt-get install emacs
 ```
