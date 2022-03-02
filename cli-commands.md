@@ -11,6 +11,12 @@ cd "My Documents" (cd to directory with space)
 ### Other directory commands
 ```bash
 pwd (gets the current directory)
+history (returns all the commands you typed)
+```
+
+### Other file commands
+```bash
+file filename.jpeg (returns the file's info)
 ```
 
 ### CRUD files and directory
@@ -32,6 +38,8 @@ exit
 ### Show current directory files
 ```bash
 ls
+ls -a (shows all including hidden files)
+ls -l (shows all with details)
 ```
 
 ## Install packages
