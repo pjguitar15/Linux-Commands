@@ -1,5 +1,5 @@
 ## CD commands
-```
+```bash
 cd or cd ~ (navigate to home diretory)
 cd /  (go to root directory; means the highest system directory)
 cd ~ (go to home directory; means user files)
