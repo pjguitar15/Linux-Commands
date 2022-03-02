@@ -25,7 +25,7 @@ rmdir dirname
 
 ### Clear and Exit
 ```bash
-clear
+clear or ctrl + L
 exit
 ```
 
