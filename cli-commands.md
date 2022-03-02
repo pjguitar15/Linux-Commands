@@ -9,7 +9,7 @@ cd ~/ (open files from home directory)
 
 ### CRUD files and directory
 > Create Read Update Delete
-```bash
+```csh
 mk filename
 rm filename
 
