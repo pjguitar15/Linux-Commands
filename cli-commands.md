@@ -1,4 +1,4 @@
-## Go to root directory
+### Go to root directory
 > root directory means the highest directory on your system
 ```
 cd /
