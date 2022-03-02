@@ -5,6 +5,7 @@ cd /  (go to root directory; means the highest system directory)
 cd ~ (go to home directory; means user files)
 cd ../ (previous directory)
 cd ~/ (open files from home directory)
+cd "My Documents" (cd to directory with space)
 ```
 
 ### CRUD files and directory
