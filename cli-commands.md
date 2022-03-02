@@ -9,7 +9,7 @@ cd ~/ (open files from home directory)
 
 ### CRUD files and directory
 > Create Read Update Delete
-```
+```bash
 mk filename
 rm filename
 
@@ -18,24 +18,24 @@ rmdir dirname
 ```
 
 ### Clear and Exit
-```
+```bash
 clear
 exit
 ```
 
 ### Show current directory files
-```
+```bash
 ls
 ```
 
 ## Install packages
-```
+```bash
 apt-get
 sudo apt-get install emacs
 ```
 
 ## Changing Directory Permissions
-```
+```bash
 chmod (learn about this)
 ```
 
