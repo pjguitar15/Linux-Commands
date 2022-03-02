@@ -22,3 +22,8 @@ exit
 ../
 ../../../
 ```
+
+## Show current directory files
+```
+ls
+```
